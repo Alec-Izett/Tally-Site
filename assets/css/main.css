@@ -99,11 +99,11 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #935d8c;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
+		background-color: #0f2310;
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #43c24a 15%, #b8433f 85%);
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #249c3e 15%, #1ace47 85%);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #000000 15%, #117a19 85%);
+		background-image: url("images/overlay.png"), linear-gradient(45deg, #000000 15%, #236d26 85%);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2291,23 +2291,23 @@ input, select, textarea {
 			}
 
 		.icon.style1 {
-			color: #efa8b0;
+			color: #173518;
 		}
 
 		.icon.style2 {
-			color: #c79cc8;
+			color: #265828;
 		}
 
 		.icon.style3 {
-			color: #a89cc8;
+			color: #357a38;
 		}
 
 		.icon.style4 {
-			color: #9bb2e1;
+			color: #449e48;
 		}
 
 		.icon.style5 {
-			color: #8cc9f0;
+			color: #4caf50;
 		}
 
 		@media screen and (max-width: 1680px) {
@@ -2884,23 +2884,23 @@ input, select, textarea {
 		}
 
 			.statistics li.style1 {
-				background-color: #efa8b0;
+				background-color: #265825;
 			}
 
 			.statistics li.style2 {
-				background-color: #c79cc8;
+				background-color: #2e6930;
 			}
 
 			.statistics li.style3 {
-				background-color: #a89cc8;
+				background-color: #357a38;
 			}
 
 			.statistics li.style4 {
-				background-color: #9bb2e1;
+				background-color: #3d8c40;
 			}
 
 			.statistics li.style5 {
-				background-color: #8cc9f0;
+				background-color: #449e48;
 			}
 
 			.statistics li strong, .statistics li b {
